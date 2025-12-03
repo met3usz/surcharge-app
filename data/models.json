@@ -1,9 +1,5 @@
 [
   {
-    "WARTOSC": "EOS z intarsją złoty mat",
-    "PRZEKODOWANIE": "0E"
-  },
-  {
     "WARTOSC": "RC3 INVEST",
     "PRZEKODOWANIE": "A2"
   },
@@ -24,38 +20,6 @@
     "PRZEKODOWANIE": "AK"
   },
   {
-    "WARTOSC": "INTER AMBER",
-    "PRZEKODOWANIE": "AM"
-  },
-  {
-    "WARTOSC": "NOSTRE",
-    "PRZEKODOWANIE": "AN"
-  },
-  {
-    "WARTOSC": "ARGALI",
-    "PRZEKODOWANIE": "AP"
-  },
-  {
-    "WARTOSC": "ARCO",
-    "PRZEKODOWANIE": "AR"
-  },
-  {
-    "WARTOSC": "SEMPRE VERSE",
-    "PRZEKODOWANIE": "AS"
-  },
-  {
-    "WARTOSC": "SEMPRE",
-    "PRZEKODOWANIE": "AV"
-  },
-  {
-    "WARTOSC": "SEMPRE LUX",
-    "PRZEKODOWANIE": "AX"
-  },
-  {
-    "WARTOSC": "ADORE",
-    "PRZEKODOWANIE": "AZ"
-  },
-  {
     "WARTOSC": "ANTYWŁAMANIOWE B-30",
     "PRZEKODOWANIE": "B3"
   },
@@ -64,400 +28,44 @@
     "PRZEKODOWANIE": "B5"
   },
   {
-    "WARTOSC": "BLANCO ALTO",
-    "PRZEKODOWANIE": "BA"
-  },
-  {
-    "WARTOSC": "BLANCO LIGHT",
-    "PRZEKODOWANIE": "BG"
-  },
-  {
-    "WARTOSC": "BLANCO",
-    "PRZEKODOWANIE": "BL"
-  },
-  {
     "WARTOSC": "ANTYWŁAMANIOWE C-30",
     "PRZEKODOWANIE": "C3"
-  },
-  {
-    "WARTOSC": "CERES VARIO",
-    "PRZEKODOWANIE": "CA"
-  },
-  {
-    "WARTOSC": "CERES",
-    "PRZEKODOWANIE": "CB"
-  },
-  {
-    "WARTOSC": "CREATO",
-    "PRZEKODOWANIE": "CE"
   },
   {
     "WARTOSC": "CERBER PLUS",
     "PRZEKODOWANIE": "CP"
   },
   {
-    "WARTOSC": "CERBER PLUS 37dB",
-    "PRZEKODOWANIE": "CT"
-  },
-  {
     "WARTOSC": "CERBER PLUS RC2",
     "PRZEKODOWANIE": "CU"
-  },
-  {
-    "WARTOSC": "CERBER PLUS RC2 37dB",
-    "PRZEKODOWANIE": "CZ"
-  },
-  {
-    "WARTOSC": "DECO INVEST III KL.",
-    "PRZEKODOWANIE": "D3"
-  },
-  {
-    "WARTOSC": "DECO INVEST IV KL.",
-    "PRZEKODOWANIE": "D4"
-  },
-  {
-    "WARTOSC": "DRU ALTO",
-    "PRZEKODOWANIE": "DA"
-  },
-  {
-    "WARTOSC": "DRU ALTO z wystrojem złotym",
-    "PRZEKODOWANIE": "DB"
-  },
-  {
-    "WARTOSC": "DECO",
-    "PRZEKODOWANIE": "DC"
-  },
-  {
-    "WARTOSC": "DECO CZ",
-    "PRZEKODOWANIE": "DD"
-  },
-  {
-    "WARTOSC": "DECO HPL",
-    "PRZEKODOWANIE": "DH"
-  },
-  {
-    "WARTOSC": "DRU",
-    "PRZEKODOWANIE": "DR"
-  },
-  {
-    "WARTOSC": "DRU z wystrojem złotym",
-    "PRZEKODOWANIE": "DW"
-  },
-  {
-    "WARTOSC": "DECO LUX",
-    "PRZEKODOWANIE": "DX"
-  },
-  {
-    "WARTOSC": "EOS z intarsją miedź mat",
-    "PRZEKODOWANIE": "E6"
-  },
-  {
-    "WARTOSC": "EOS z intarsją czarny mat",
-    "PRZEKODOWANIE": "E7"
-  },
-  {
-    "WARTOSC": "EOS z intarsją chrom mat",
-    "PRZEKODOWANIE": "E8"
-  },
-  {
-    "WARTOSC": "ESTO",
-    "PRZEKODOWANIE": "EA"
-  },
-  {
-    "WARTOSC": "ELDA",
-    "PRZEKODOWANIE": "EB"
-  },
-  {
-    "WARTOSC": "EGRO",
-    "PRZEKODOWANIE": "EG"
-  },
-  {
-    "WARTOSC": "EOS",
-    "PRZEKODOWANIE": "EH"
-  },
-  {
-    "WARTOSC": "ERIS",
-    "PRZEKODOWANIE": "EJ"
-  },
-  {
-    "WARTOSC": "ELEGANT CLASSIC SOSNOWY",
-    "PRZEKODOWANIE": "EK"
-  },
-  {
-    "WARTOSC": "ESTATO LUX",
-    "PRZEKODOWANIE": "EL"
-  },
-  {
-    "WARTOSC": "EMPORE",
-    "PRZEKODOWANIE": "EM"
-  },
-  {
-    "WARTOSC": "ESPINA",
-    "PRZEKODOWANIE": "EN"
   },
   {
     "WARTOSC": "ESTATO",
     "PRZEKODOWANIE": "EO"
   },
   {
-    "WARTOSC": "ELEGANT CLASSIC DĘBOWY",
-    "PRZEKODOWANIE": "EQ"
-  },
-  {
-    "WARTOSC": "ETIUDA",
-    "PRZEKODOWANIE": "EU"
-  },
-  {
-    "WARTOSC": "ETIUDA z intarsją chrom mat",
-    "PRZEKODOWANIE": "EV"
-  },
-  {
-    "WARTOSC": "ETIUDA z intarsją czarną",
-    "PRZEKODOWANIE": "EW"
-  },
-  {
-    "WARTOSC": "FALCO",
-    "PRZEKODOWANIE": "FC"
-  },
-  {
     "WARTOSC": "FIORD",
     "PRZEKODOWANIE": "FD"
-  },
-  {
-    "WARTOSC": "FERA",
-    "PRZEKODOWANIE": "FE"
-  },
-  {
-    "WARTOSC": "FORTIMO LUX",
-    "PRZEKODOWANIE": "FL"
-  },
-  {
-    "WARTOSC": "FINA",
-    "PRZEKODOWANIE": "FN"
-  },
-  {
-    "WARTOSC": "FORTIMO",
-    "PRZEKODOWANIE": "FO"
-  },
-  {
-    "WARTOSC": "FORMO",
-    "PRZEKODOWANIE": "FR"
-  },
-  {
-    "WARTOSC": "FORTO",
-    "PRZEKODOWANIE": "FT"
-  },
-  {
-    "WARTOSC": "GUFO ALTO",
-    "PRZEKODOWANIE": "GA"
-  },
-  {
-    "WARTOSC": "GRU ALTO",
-    "PRZEKODOWANIE": "GK"
-  },
-  {
-    "WARTOSC": "GALIO",
-    "PRZEKODOWANIE": "GL"
   },
   {
     "WARTOSC": "GAMMA",
     "PRZEKODOWANIE": "GM"
   },
   {
-    "WARTOSC": "GALIO PIVOT",
-    "PRZEKODOWANIE": "GP"
-  },
-  {
-    "WARTOSC": "GRU",
-    "PRZEKODOWANIE": "GR"
-  },
-  {
-    "WARTOSC": "GUFO",
-    "PRZEKODOWANIE": "GU"
-  },
-  {
-    "WARTOSC": "GIO otwierane do wewnątrz",
-    "PRZEKODOWANIE": "GW"
-  },
-  {
-    "WARTOSC": "GIO otwierane na zewnątrz",
-    "PRZEKODOWANIE": "GZ"
-  },
-  {
-    "WARTOSC": "HIT",
-    "PRZEKODOWANIE": "HB"
-  },
-  {
-    "WARTOSC": "HAPTIC CZ",
-    "PRZEKODOWANIE": "HC"
-  },
-  {
-    "WARTOSC": "HIT DUO",
-    "PRZEKODOWANIE": "HD"
-  },
-  {
-    "WARTOSC": "HARMONY FONDO otwierane do wewnątrz",
-    "PRZEKODOWANIE": "HE"
-  },
-  {
-    "WARTOSC": "HARMONY FONDO otwierane na zewnątrz",
-    "PRZEKODOWANIE": "HF"
-  },
-  {
-    "WARTOSC": "HIGRO",
-    "PRZEKODOWANIE": "HI"
-  },
-  {
-    "WARTOSC": "HARMONY MIRROR otwierane na zewnątrz",
-    "PRZEKODOWANIE": "HJ"
-  },
-  {
-    "WARTOSC": "HARMONY pod LUSTRO otwierane do wewn.",
-    "PRZEKODOWANIE": "HO"
-  },
-  {
-    "WARTOSC": "HAPTIC",
-    "PRZEKODOWANIE": "HP"
-  },
-  {
-    "WARTOSC": "HARMONY INVEST PRO otwierane do wewnątrz",
-    "PRZEKODOWANIE": "HS"
-  },
-  {
-    "WARTOSC": "HARMONY INVEST PRO otwierane na zewnątrz",
-    "PRZEKODOWANIE": "HT"
-  },
-  {
-    "WARTOSC": "HARMONY INVEST otwierane do wewnątrz",
-    "PRZEKODOWANIE": "HU"
-  },
-  {
-    "WARTOSC": "HARMONY INVEST otwierane na zewnątrz",
-    "PRZEKODOWANIE": "HV"
-  },
-  {
-    "WARTOSC": "HARMONY otwierane do wewnątrz",
-    "PRZEKODOWANIE": "HW"
-  },
-  {
-    "WARTOSC": "HARMONY pod LUSTRO otwierane na zewn.",
-    "PRZEKODOWANIE": "HX"
-  },
-  {
-    "WARTOSC": "HARMONY otwierane na zewnątrz",
-    "PRZEKODOWANIE": "HZ"
-  },
-  {
-    "WARTOSC": "IBIS",
-    "PRZEKODOWANIE": "IB"
-  },
-  {
-    "WARTOSC": "INTER AMBER CZ",
-    "PRZEKODOWANIE": "IC"
-  },
-  {
-    "WARTOSC": "IMPULS CZ",
-    "PRZEKODOWANIE": "ID"
-  },
-  {
     "WARTOSC": "ISOLA",
     "PRZEKODOWANIE": "IO"
-  },
-  {
-    "WARTOSC": "INTERSOLID",
-    "PRZEKODOWANIE": "IS"
-  },
-  {
-    "WARTOSC": "IMPULS",
-    "PRZEKODOWANIE": "IU"
-  },
-  {
-    "WARTOSC": "INVERNO",
-    "PRZEKODOWANIE": "IV"
-  },
-  {
-    "WARTOSC": "IVA",
-    "PRZEKODOWANIE": "IW"
-  },
-  {
-    "WARTOSC": "INTERSOLID II",
-    "PRZEKODOWANIE": "JS"
-  },
-  {
-    "WARTOSC": "KINGSTONE",
-    "PRZEKODOWANIE": "KG"
-  },
-  {
-    "WARTOSC": "KIWI LIGHT otwierane do wewnątrz",
-    "PRZEKODOWANIE": "KO"
-  },
-  {
-    "WARTOSC": "KIWI LIGHT otwierane na zewnątrz",
-    "PRZEKODOWANIE": "KP"
-  },
-  {
-    "WARTOSC": "AKUSTIK 27dB III KLASA",
-    "PRZEKODOWANIE": "KS"
-  },
-  {
-    "WARTOSC": "KIWI otwierane do wewnątrz",
-    "PRZEKODOWANIE": "KU"
-  },
-  {
-    "WARTOSC": "KIWI otwierane na zewnątrz ",
-    "PRZEKODOWANIE": "KV"
   },
   {
     "WARTOSC": "III KLASA WYTRZYMAŁOŚCI",
     "PRZEKODOWANIE": "KW"
   },
   {
-    "WARTOSC": "SONATA LUX z intarsją złotą mat",
-    "PRZEKODOWANIE": "L0"
-  },
-  {
-    "WARTOSC": "SONATA LUX z intarsją miedź mat",
-    "PRZEKODOWANIE": "L1"
-  },
-  {
-    "WARTOSC": "LUMA",
-    "PRZEKODOWANIE": "LB"
-  },
-  {
     "WARTOSC": "SKŁADANE DUO",
     "PRZEKODOWANIE": "LD"
   },
   {
-    "WARTOSC": "LOFTY",
-    "PRZEKODOWANIE": "LF"
-  },
-  {
-    "WARTOSC": "LUGO",
-    "PRZEKODOWANIE": "LG"
-  },
-  {
-    "WARTOSC": "LUMEN LOFT",
-    "PRZEKODOWANIE": "LL"
-  },
-  {
-    "WARTOSC": "LEO",
-    "PRZEKODOWANIE": "LO"
-  },
-  {
-    "WARTOSC": "LUMEN",
-    "PRZEKODOWANIE": "LU"
-  },
-  {
     "WARTOSC": "MODENA",
     "PRZEKODOWANIE": "MA"
-  },
-  {
-    "WARTOSC": "MATTO",
-    "PRZEKODOWANIE": "MB"
-  },
-  {
-    "WARTOSC": "MATTO ABS",
-    "PRZEKODOWANIE": "MC"
   },
   {
     "WARTOSC": "MODERN",
@@ -468,180 +76,24 @@
     "PRZEKODOWANIE": "ME"
   },
   {
-    "WARTOSC": "MAESTO z intarsją miedź mat",
-    "PRZEKODOWANIE": "MI"
-  },
-  {
-    "WARTOSC": "MERLO ALTO",
-    "PRZEKODOWANIE": "MK"
-  },
-  {
-    "WARTOSC": "MERLO",
-    "PRZEKODOWANIE": "ML"
-  },
-  {
-    "WARTOSC": "MODO",
-    "PRZEKODOWANIE": "MM"
-  },
-  {
-    "WARTOSC": "MAESTO z intarsją czarny mat",
-    "PRZEKODOWANIE": "MN"
-  },
-  {
-    "WARTOSC": "MONA",
-    "PRZEKODOWANIE": "MO"
-  },
-  {
-    "WARTOSC": "MERIDA",
-    "PRZEKODOWANIE": "MP"
-  },
-  {
-    "WARTOSC": "MAESTO z intarsją chrom mat",
-    "PRZEKODOWANIE": "MQ"
-  },
-  {
-    "WARTOSC": "MAESTO z intarsją złoty mat",
-    "PRZEKODOWANIE": "MS"
-  },
-  {
-    "WARTOSC": "MAGRO",
-    "PRZEKODOWANIE": "MU"
-  },
-  {
     "WARTOSC": "MOVI",
     "PRZEKODOWANIE": "MV"
-  },
-  {
-    "WARTOSC": "MERLO otwierane do wewnątrz",
-    "PRZEKODOWANIE": "MW"
-  },
-  {
-    "WARTOSC": "MERLO otwierane na zewnątrz",
-    "PRZEKODOWANIE": "MZ"
-  },
-  {
-    "WARTOSC": "SONATA z intarsją złotą mat",
-    "PRZEKODOWANIE": "NA"
   },
   {
     "WARTOSC": "SENTO",
     "PRZEKODOWANIE": "NE"
   },
   {
-    "WARTOSC": "NOMA",
-    "PRZEKODOWANIE": "NM"
-  },
-  {
-    "WARTOSC": "FINA otwierane do wewnątrz",
-    "PRZEKODOWANIE": "NW"
-  },
-  {
-    "WARTOSC": "NOMA otwierane na zewnątrz",
-    "PRZEKODOWANIE": "NX"
-  },
-  {
-    "WARTOSC": "NOMA otwierane do wewnątrz",
-    "PRZEKODOWANIE": "NY"
-  },
-  {
-    "WARTOSC": "FINA otwierane na zewnątrz",
-    "PRZEKODOWANIE": "NZ"
-  },
-  {
-    "WARTOSC": "FIORD DUO",
-    "PRZEKODOWANIE": "OF"
-  },
-  {
-    "WARTOSC": "CAMBIO DUO",
-    "PRZEKODOWANIE": "OP"
-  },
-  {
-    "WARTOSC": "SIMPLE DUO",
-    "PRZEKODOWANIE": "OS"
-  },
-  {
-    "WARTOSC": "TEO",
-    "PRZEKODOWANIE": "OT"
-  },
-  {
-    "WARTOSC": "PPOŻ EI60 PLUS DUO SR 32 DB SYS HALSPAN",
-    "PRZEKODOWANIE": "P1"
-  },
-  {
-    "WARTOSC": "DYMOSZCZ. EI30 PLUS DUO SR 27 DB HALSPAN",
-    "PRZEKODOWANIE": "P2"
-  },
-  {
-    "WARTOSC": "DYMOSZCZ. EI60 PLUS DUO SR 32 DB HALSPAN",
-    "PRZEKODOWANIE": "P3"
-  },
-  {
-    "WARTOSC": "DYMOSZCZ. EI30 PLUS DUO SR 32 DB HALSPAN",
-    "PRZEKODOWANIE": "P4"
-  },
-  {
-    "WARTOSC": "PPOŻ EI30 PLUS DUO SR 27 DB SYS HALSPAN",
-    "PRZEKODOWANIE": "P5"
-  },
-  {
-    "WARTOSC": "PPOŻ EI30 PLUS DUO SR 32 DB SYS HALSPAN",
-    "PRZEKODOWANIE": "P6"
-  },
-  {
-    "WARTOSC": "PABLO",
-    "PRZEKODOWANIE": "PB"
+    "WARTOSC": "CAMBIO",
+    "PRZEKODOWANIE": "PL"
   },
   {
     "WARTOSC": "PRINCESTONE",
     "PRZEKODOWANIE": "PC"
   },
   {
-    "WARTOSC": "PRESTIGE",
-    "PRZEKODOWANIE": "PG"
-  },
-  {
-    "WARTOSC": "PRIMUS",
-    "PRZEKODOWANIE": "PI"
-  },
-  {
-    "WARTOSC": "PRIMUS ALTO",
-    "PRZEKODOWANIE": "PJ"
-  },
-  {
-    "WARTOSC": "CAMBIO",
-    "PRZEKODOWANIE": "PL"
-  },
-  {
-    "WARTOSC": "PASSO",
-    "PRZEKODOWANIE": "PP"
-  },
-  {
     "WARTOSC": "PALAZZO",
     "PRZEKODOWANIE": "PZ"
-  },
-  {
-    "WARTOSC": "TIARA z intarsją chrom mat",
-    "PRZEKODOWANIE": "RA"
-  },
-  {
-    "WARTOSC": "TIARA z intarsją chrom połysk",
-    "PRZEKODOWANIE": "RB"
-  },
-  {
-    "WARTOSC": "TIARA z intarsją złotą połysk",
-    "PRZEKODOWANIE": "RC"
-  },
-  {
-    "WARTOSC": "TIARA z intarsją czarną",
-    "PRZEKODOWANIE": "RD"
-  },
-  {
-    "WARTOSC": "TIARA z intarsją złotą mat",
-    "PRZEKODOWANIE": "RE"
-  },
-  {
-    "WARTOSC": "TIARA z intarsją miedź mat",
-    "PRZEKODOWANIE": "RF"
   },
   {
     "WARTOSC": "RIFLO",
@@ -652,76 +104,8 @@
     "PRZEKODOWANIE": "RO"
   },
   {
-    "WARTOSC": "RUBI",
-    "PRZEKODOWANIE": "RU"
-  },
-  {
-    "WARTOSC": "SIERO z intarsją miedź mat",
-    "PRZEKODOWANIE": "S1"
-  },
-  {
-    "WARTOSC": "SIERO z intarsją czarny mat",
-    "PRZEKODOWANIE": "S2"
-  },
-  {
-    "WARTOSC": "SAMOS",
-    "PRZEKODOWANIE": "S3"
-  },
-  {
-    "WARTOSC": "SLIM",
-    "PRZEKODOWANIE": "S4"
-  },
-  {
-    "WARTOSC": "SONATA z intarsją miedź mat",
-    "PRZEKODOWANIE": "S5"
-  },
-  {
-    "WARTOSC": "SALEA z intarsją miedź mat",
-    "PRZEKODOWANIE": "S6"
-  },
-  {
-    "WARTOSC": "SALEA z intarsją czarny mat",
-    "PRZEKODOWANIE": "S7"
-  },
-  {
-    "WARTOSC": "SALEA z intarsją chrom mat",
-    "PRZEKODOWANIE": "S8"
-  },
-  {
-    "WARTOSC": "SALEA z intarsją złoty mat",
-    "PRZEKODOWANIE": "S9"
-  },
-  {
-    "WARTOSC": "SONATA z intarsją chrom mat",
-    "PRZEKODOWANIE": "SC"
-  },
-  {
-    "WARTOSC": "SATURN",
-    "PRZEKODOWANIE": "SD"
-  },
-  {
-    "WARTOSC": "SONATA z intarsją chrom połysk",
-    "PRZEKODOWANIE": "SE"
-  },
-  {
-    "WARTOSC": "SONATA z intarsją złotą połysk",
-    "PRZEKODOWANIE": "SF"
-  },
-  {
-    "WARTOSC": "SEDO",
-    "PRZEKODOWANIE": "SG"
-  },
-  {
-    "WARTOSC": "SONATA z intarsją czarną",
-    "PRZEKODOWANIE": "SJ"
-  },
-  {
     "WARTOSC": "SIMPLE",
     "PRZEKODOWANIE": "SM"
-  },
-  {
-    "WARTOSC": "SONATA LUX z intarsją czarną",
-    "PRZEKODOWANIE": "SP"
   },
   {
     "WARTOSC": "SUBITO",
@@ -732,72 +116,8 @@
     "PRZEKODOWANIE": "SU"
   },
   {
-    "WARTOSC": "STU",
-    "PRZEKODOWANIE": "SW"
-  },
-  {
-    "WARTOSC": "STU ALTO",
-    "PRZEKODOWANIE": "SY"
-  },
-  {
-    "WARTOSC": "STALIO",
-    "PRZEKODOWANIE": "SZ"
-  },
-  {
-    "WARTOSC": "TECHNICZNE PRZECIWPOŻAROWE EI60 RC2",
-    "PRZEKODOWANIE": "T0"
-  },
-  {
     "WARTOSC": "AKUSTIK 42 dB",
     "PRZEKODOWANIE": "T2"
-  },
-  {
-    "WARTOSC": "TECHNICZNE PRZECIWPOŻAROWE EI30",
-    "PRZEKODOWANIE": "T3"
-  },
-  {
-    "WARTOSC": "PRZECIWPOŻAROWE FR EI30 SR 42 dB DM ",
-    "PRZEKODOWANIE": "T8"
-  },
-  {
-    "WARTOSC": "PRZECIWPOŻAROWE FR EI30 SR 37 dB ",
-    "PRZEKODOWANIE": "T9"
-  },
-  {
-    "WARTOSC": "TECHNICZNE PRZECIWPOŻAROWE EI30 SR 32 dB",
-    "PRZEKODOWANIE": "TA"
-  },
-  {
-    "WARTOSC": "TECHNICZNE PRZECIWPOŻAROWE EI30 SR 42 dB",
-    "PRZEKODOWANIE": "TE"
-  },
-  {
-    "WARTOSC": "PPOŻ EI30 PLUS SR 32 DB SYSTEMU HALSPAN",
-    "PRZEKODOWANIE": "TK"
-  },
-  {
-    "WARTOSC": "PPOŻ EI30 PLUS SR 27 DB SYSTEMU HALSPAN",
-    "PRZEKODOWANIE": "TL"
-  },
-  {
-    "WARTOSC": "DYMOSZCZ. EI30 PLUS SR 32 DB SYS HALSPAN",
-    "PRZEKODOWANIE": "TM"
-  },
-  {
-    "WARTOSC": "DYMOSZCZ. EI30 PLUS SR 27 DB SYS HALSPAN",
-    "PRZEKODOWANIE": "TN"
-  },
-  {
-    "WARTOSC": "DŹWIĘKOIZOLACYJNE (TYP B 37 dB)",
-    "PRZEKODOWANIE": "TO"
-  },
-  {
-    "WARTOSC": "DYMOSZCZ. EI60 PLUS SR 32 DB SYS HALSPAN",
-    "PRZEKODOWANIE": "TP"
-  },
-  {
-    "WARTOSC": "PPOŻ EI60 PLUS SR 32 DB SYSTEMU HALSPAN",
-    "PRZEKODOWANIE": "TQ"
   },
   {
     "WARTOSC": "DŹWIĘKOIZOLACYJNE (TYP B)",
@@ -812,63 +132,11 @@
     "PRZEKODOWANIE": "TZ"
   },
   {
-    "WARTOSC": "UPPSALA DUO",
-    "PRZEKODOWANIE": "UD"
-  },
-  {
-    "WARTOSC": "UPPSALA MAT",
-    "PRZEKODOWANIE": "UM"
-  },
-  {
-    "WARTOSC": "UNITO",
-    "PRZEKODOWANIE": "UN"
-  },
-  {
-    "WARTOSC": "UPPSALA",
-    "PRZEKODOWANIE": "UP"
-  },
-  {
-    "WARTOSC": "UPPSALA DUO MAT",
-    "PRZEKODOWANIE": "UU"
-  },
-  {
-    "WARTOSC": "VISIO M",
-    "PRZEKODOWANIE": "VA"
-  },
-  {
-    "WARTOSC": "VERTIGO DUO",
-    "PRZEKODOWANIE": "VC"
-  },
-  {
-    "WARTOSC": "VERI",
-    "PRZEKODOWANIE": "VE"
-  },
-  {
-    "WARTOSC": "VIGO",
-    "PRZEKODOWANIE": "VG"
-  },
-  {
     "WARTOSC": "VILANO",
     "PRZEKODOWANIE": "VI"
   },
   {
     "WARTOSC": "VERTIGO",
     "PRZEKODOWANIE": "VM"
-  },
-  {
-    "WARTOSC": "VERDO",
-    "PRZEKODOWANIE": "VO"
-  },
-  {
-    "WARTOSC": "VISIO",
-    "PRZEKODOWANIE": "VS"
-  },
-  {
-    "WARTOSC": "VISIO LUX",
-    "PRZEKODOWANIE": "VU"
-  },
-  {
-    "WARTOSC": "ZENN",
-    "PRZEKODOWANIE": "ZE"
   }
 ]

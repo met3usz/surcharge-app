@@ -1,0 +1,116 @@
+{
+  "door_price_lists": [
+    {
+      "set_id": 1,
+      "description": "Price list for the first set of door models (e.g., Collection A)",
+      "door_models": [
+        "MODESTO",
+        "RIFLO",
+        "ROYALE",
+        "CAMBIO",
+        "SUBLIME",
+        "SUBITO",
+        "SIMPLE",
+        "SENTO",
+        "ESTATO",
+        "TIARA",
+        "FIORD",
+        "SKŁADANE (Folding)",
+        "MOVI"
+      ],
+      "color_pricing": [
+        {
+          "group": 1,
+          "price_ral": "349/429.27",
+          "price_ncs": "449/552.27"
+        },
+        {
+          "group": 2,
+          "price_ral": "399/490.77",
+          "price_ncs": "499/613.77"
+        },
+        {
+          "group": 3,
+          "price_ral": "429/527.67",
+          "price_ncs": "529/650.67"
+        },
+        {
+          "group": 4,
+          "price_ral": "499/613.77",
+          "price_ncs": "599/736.77"
+        },
+        {
+          "group": 5,
+          "price_ral": "699/859.77",
+          "price_ncs": "799/982.77"
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "description": "Price list for the second set of door models (e.g., Collection B)",
+      "door_models": [
+        "VILANO",
+        "VERTIGO",
+        "MODERN",
+        "MODENA",
+        "PALAZZO",
+        "PRINCESTONE",
+        "III KLASA MECHANICZNA O KONSTRUKCJI PŁYTOWEJ (3rd Mechanical Class - Panel Construction)",
+        "G46",
+        "WAHADŁOWE (Swing/Pivot)",
+        "GAMMA",
+        "AKUSTYCZNE TYP A (Acoustic Type A)",
+        "AKUSTYCZNE TYP B (Acoustic Type B)",
+        "AKUSTYCZNE TYP A DUO (Acoustic Type A Duo)",
+        "AKUSTYCZNE TYP B DUO (Acoustic Type B Duo)",
+        "AKUSTIK 32 dB III KLASA MECHANICZNA (Acoustic 32 dB 3rd Mechanical Class)",
+        "AKUSTIK 42 dB IV KLASA MECHANICZNA (Acoustic 42 dB 4th Mechanical Class)",
+        "AKUSTYCZNE SR 37 dB (Acoustic SR 37 dB)",
+        "B-30",
+        "C-30",
+        "B-30 INVEST",
+        "RC3 INVEST SR 37 EI30",
+        "RC3 INVEST 37 dB",
+        "RC3",
+        "RC3 INVEST",
+        "CERBER PLUS RC2",
+        "CERBER PLUS",
+        "FR EI30 SR42",
+        "FR EI30 SR",
+        "EI60 PLUS",
+        "EI30 PLUS",
+        "FR EI30",
+        "EWAKUACYJNE (Evacuation)",
+        "ISOLA"
+      ],
+      "color_pricing": [
+        {
+          "group": 1,
+          "price_ral": "399/490.77",
+          "price_ncs": "449/552.27"
+        },
+        {
+          "group": 2,
+          "price_ral": "499/613.77",
+          "price_ncs": "499/613.77"
+        },
+        {
+          "group": 3,
+          "price_ral": "599/736.77",
+          "price_ncs": "529/650.67"
+        },
+        {
+          "group": 4,
+          "price_ral": "699/859.77",
+          "price_ncs": "599/736.77"
+        },
+        {
+          "group": 5,
+          "price_ral": "799/982.77",
+          "price_ncs": "799/982.77"
+        }
+      ]
+    }
+  ]
+}
