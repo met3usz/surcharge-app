@@ -1,7 +1,7 @@
 "use client"
 
 import * as React from "react"
-import { Check, ChevronsUpDown, Search } from "lucide-react"
+import { Check, ChevronsUpDown } from "lucide-react"
 
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
@@ -27,7 +27,7 @@ import {
 } from "@/components/ui/select"
 import { ColorItem, ModelItem, PricingData } from "@/lib/data"
 import { calculateSurcharge } from "@/lib/pricing"
-import { Input } from "@/components/ui/input"
+
 
 interface SearchFormProps {
   colors: ColorItem[]
