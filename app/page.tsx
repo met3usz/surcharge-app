@@ -1,10 +1,11 @@
-import { getColors, getModels } from "@/lib/data";
+import { getColors, getModels, getPricingData } from "@/lib/data";
 import { SearchForm } from "@/components/search-form";
 import Image from "next/image";
 
 export default async function Home() {
   const colors = await getColors();
   const models = await getModels();
+  const pricingData = await getPricingData();
 
   return (
     <main className="min-h-screen flex flex-col items-center justify-center p-4 md:p-24 bg-linear-to-br from-slate-100 to-slate-200 dark:from-slate-900 dark:to-slate-800">
@@ -30,7 +31,7 @@ export default async function Home() {
         </p>
       </div>
 
-      <SearchForm colors={colors} models={models} />
+      <SearchForm colors={colors} models={models} pricingData={pricingData} />
     </main>
   );
 }

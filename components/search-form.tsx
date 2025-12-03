@@ -25,15 +25,17 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
-import { ColorItem, ModelItem } from "@/lib/data"
+import { ColorItem, ModelItem, PricingData } from "@/lib/data"
+import { calculateSurcharge } from "@/lib/pricing"
 import { Input } from "@/components/ui/input"
 
 interface SearchFormProps {
   colors: ColorItem[]
   models: ModelItem[]
+  pricingData: PricingData
 }
 
-export function SearchForm({ colors, models }: SearchFormProps) {
+export function SearchForm({ colors, models, pricingData }: SearchFormProps) {
   const [prefix, setPrefix] = React.useState<string>("NCS")
   const [openModel, setOpenModel] = React.useState(false)
   const [selectedModel, setSelectedModel] = React.useState<ModelItem | null>(null)
@@ -45,7 +47,7 @@ export function SearchForm({ colors, models }: SearchFormProps) {
   const availableColors = React.useMemo(() => {
     return colors.filter((color) => {
       if (prefix === "RAL") {
-        return color.POLSKONE_GRUPA_KOLORU === "RAL"
+        return color.POLSKONE_GRUPA_KOLORU.startsWith("RAL")
       }
       return color.POLSKONE_GRUPA_KOLORU.startsWith("NCS")
     })
@@ -147,7 +149,7 @@ export function SearchForm({ colors, models }: SearchFormProps) {
                 <CommandList>
                   <CommandEmpty>Nie znaleziono koloru.</CommandEmpty>
                   <CommandGroup>
-                    {availableColors.slice(0, 50).map((color) => (
+                    {availableColors.map((color) => (
                       <CommandItem
                         key={color.WARTOSC}
                         value={color.WARTOSC}
@@ -184,11 +186,15 @@ export function SearchForm({ colors, models }: SearchFormProps) {
             Kolor: <span className="font-medium text-foreground">{selectedColor.WARTOSC}</span>
           </p>
           <div className="text-3xl font-bold text-primary">
-            Dopłata: ??? zł
+            {calculateSurcharge(selectedModel, selectedColor, pricingData) 
+              ? `Dopłata: ${calculateSurcharge(selectedModel, selectedColor, pricingData)} zł`
+              : "Brak danych o dopłacie"}
           </div>
-          <p className="text-xs text-muted-foreground mt-2">
-            (Cena do ustalenia - brak danych w systemie)
-          </p>
+          {!calculateSurcharge(selectedModel, selectedColor, pricingData) && (
+            <p className="text-xs text-muted-foreground mt-2">
+              (Sprawdź czy wybrany model i kolor są kompatybilne)
+            </p>
+          )}
         </div>
       )}
     </div>
